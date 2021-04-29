@@ -1,7 +1,7 @@
 version-1
           feature-1 done
           feature-2 done
-          feature-3 done
+          feure-3 done
           
 version-2
           
